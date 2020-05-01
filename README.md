@@ -1,2 +1,0 @@
-# juansokil.github.io
- webpage
