@@ -1,4 +1,4 @@
-publishDir = "../juansokil.github.io" 
+publishDir = "https://juansokil.github.io/" 
 baseurl = "/"
 languageCode = "en-us"
 title = "A Hugo website"
