@@ -1,3 +1,4 @@
+publishDir = "../juansokil.github.io"
 baseurl = "https://example.org/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
